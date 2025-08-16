@@ -1,4 +1,5 @@
 #Black Friday Sales Data Analysis (Pandas Case Study)
+
 This repository contains a comprehensive data analysis case study performed using the Pandas library in Python. The analysis focuses on the "Black Friday Dataset," which comprises sales transactions captured at a retail store.
 
 Problem Statement: The primary goal of this case study is to explore and understand the Black Friday sales data, with an ultimate aim to predict purchase amounts (though the prediction model itself is not included in this specific file).
